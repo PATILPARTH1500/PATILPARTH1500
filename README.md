@@ -22,7 +22,7 @@ I'm a passionate self-taught developer diving deep into the world of **Web Devel
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: [github.com/PATILPARTH1500(https://github.com/PATILPARTH1500)
+- 💼 GitHub: [github.com/PATILPARTH1500](https://github.com/PATILPARTH1500)
 - 📷 Instagram: [@decodingthewhy](https://instagram.com/decodingthewhy6142)  
 - 🧠 LinkedIn: [Decoding The Why](https://www.linkedin.com/in/parth-patil-b62809298/)
 
