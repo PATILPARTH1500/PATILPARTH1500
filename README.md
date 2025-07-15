@@ -14,7 +14,7 @@ I'm a passionate self-taught developer diving deep into the world of **Web Devel
 
 ## 🔧 Tech Stack
 
-- 💻 Languages: Python, HTML, CSS, JavaScript, C#
+- 💻 Languages: Python, HTML, CSS, JavaScript, MySql, GitBash, GitHub
 - 🌐 Web: React (learning), Node.js (exploring), Bootstrap, Flask (basics)
 - 🔍 Interests: AI, Machine Learning, Backend Logic, Clean UI
 
