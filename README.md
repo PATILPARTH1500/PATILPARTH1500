@@ -1,32 +1,146 @@
-# 👋 Hi, I'm Parth Patil
+# ```bash
 
-I'm a passionate self-taught developer diving deep into the world of **Web Development**, **Python**, and **AI/ML**. I love solving problems through code and building projects that make an impact.
+parth@github:~$ whoami
 
----
+````
 
-## 🚀 What I'm Doing
+```text
+Parth Patil
+Software Engineer
+India
 
-- 📚 Currently learning and practicing full-stack web development  
-- 🧠 Exploring Python for automation, data handling, and machine learning  
-- 💼 Completed a 6-month internship as a **Software Engineer** at a private limited company  
+Building web applications, automation tools,
+and exploring AI/ML one project at a time.
+````
 
----
+## ```bash
 
-## 🔧 Tech Stack
+parth@github:~$ neofetch
 
-- 💻 Languages: Python, HTML, CSS, JavaScript, MySql, GitBash, GitHub, C++
-- 🌐 Web: React (learning), Node.js (exploring), Bootstrap, Flask (basics)
-- 🔍 Interests: AI, Machine Learning, Backend Logic, Clean UI
+````
 
----
+```text
+                   .--.
+                  |o_o |
+                  |:_/ |
+                 //   \ \
+                (|     | )
+               /'\_   _/`\
+               \___)=(___/
 
-## 📫 Connect With Me
+Name      : Parth Patil
+Role      : Software Engineer
+Experience: 6-Month Software Engineering Internship
+Focus     : Full-Stack Development • Python • AI/ML
 
-- 💼 GitHub: [github.com/PATILPARTH1500](https://github.com/PATILPARTH1500)
-- 📷 Instagram: [@parthpatil__150](https://www.instagram.com/parthpatil__150/)  
-- 🧠 LinkedIn: [Parth Patil](https://www.linkedin.com/in/parth-patil-b62809298/)
+OS        : Learning Mode 24/7
+Editor    : VS Code
+Version   : Git + GitHub
+Status    : Shipping projects and learning daily
+````
 
----
+## ```bash
 
-> “Code is the closest thing we have to superpowers.” — Let’s decode the why, not just the how.
+parth@github:~$ cat about.txt
 
+````
+
+```text
+Passionate self-taught developer with a strong interest in
+web development, backend systems, automation, and machine learning.
+
+I enjoy understanding how things work under the hood,
+solving real-world problems, and turning ideas into software.
+````
+
+## ```bash
+
+parth@github:~$ ls skills
+
+````
+
+```text
+languages/
+├── Python
+├── JavaScript
+├── C++
+├── HTML
+├── CSS
+└── MySQL
+
+web/
+├── React        (learning)
+├── Node.js      (exploring)
+├── Bootstrap
+└── Flask
+
+tools/
+├── Git
+├── GitHub
+└── Git Bash
+
+interests/
+├── Artificial Intelligence
+├── Machine Learning
+├── Backend Development
+└── Clean UI Design
+````
+
+## ```bash
+
+parth@github:~$ current_mission
+
+````
+
+```text
+✓ Strengthening Full-Stack Development Skills
+✓ Building Practical Python Projects
+✓ Exploring AI & Machine Learning
+✓ Improving System Design Knowledge
+````
+
+## ```bash
+
+parth@github:~$ github_stats
+
+````
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PATILPARTH1500&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PATILPARTH1500&layout=compact&theme=tokyonight&hide_border=true)
+
+## ```bash
+parth@github:~$ socials
+````
+
+```text
+GitHub    : github.com/PATILPARTH1500
+LinkedIn  : linkedin.com/in/parth-patil-b62809298
+Instagram : @parthpatil__150
+```
+
+## ```bash
+
+parth@github:~$ philosophy
+
+````
+
+```text
+"Code is the closest thing we have to superpowers."
+
+Understand the why.
+Build the how.
+Keep improving.
+````
+
+## ```bash
+
+parth@github:~$ exit
+
+````
+
+```text
+Session terminated.
+
+Thanks for visiting.
+````
