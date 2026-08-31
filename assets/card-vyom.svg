@@ -1,9 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="430" height="190" viewBox="0 0 430 190" role="img" aria-label="VYOM AI desktop assistant">
-<rect width="430" height="190" rx="18" fill="#0b1220" stroke="#2e3d65"/>
-<rect x="20" y="18" width="103" height="25" rx="12" fill="#172554"/><text x="33" y="35" font-family="ui-monospace,monospace" font-size="11" fill="#a5b4fc">03 / LOCAL AI</text>
-<text x="20" y="76" font-family="Inter,system-ui" font-size="27" font-weight="800" fill="#f8fafc">VYOM</text>
-<text x="20" y="101" font-family="Inter,system-ui" font-size="14" fill="#94a3b8">Local-first AI desktop intelligence layer</text>
-<text x="20" y="132" font-family="ui-monospace,monospace" font-size="12" fill="#c7d2fe">Python · Flask · Ollama · Voice · SQLite</text>
-<text x="20" y="160" font-family="Inter,system-ui" font-size="14" font-weight="700" fill="#38bdf8">AI chat · automation · system monitoring</text>
-<rect x="323" y="55" width="77" height="61" rx="9" fill="none" stroke="#818cf8" stroke-width="3"/><path d="M335 78h33M335 91h46M335 104h25" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="220" viewBox="0 0 430 220" role="img" aria-label="VYOM">
+
+<defs>
+  <pattern id="minorGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#151514" stroke-opacity=".055" stroke-width="1"/>
+  </pattern>
+  <pattern id="majorGrid" width="100" height="100" patternUnits="userSpaceOnUse">
+    <rect width="100" height="100" fill="url(#minorGrid)"/>
+    <path d="M 100 0 L 0 0 0 100" fill="none" stroke="#ffffff" stroke-opacity=".75" stroke-width="1"/>
+  </pattern>
+  <radialGradient id="gridFade" cx="50%" cy="28%" r="78%">
+    <stop offset="0%" stop-color="#fff" stop-opacity="1"/>
+    <stop offset="68%" stop-color="#fff" stop-opacity=".65"/>
+    <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+  <mask id="gridMask">
+    <rect width="100%" height="100%" fill="url(#gridFade)"/>
+  </mask>
+  <linearGradient id="accentText" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#a8614b"/>
+    <stop offset="100%" stop-color="#b28a4a"/>
+  </linearGradient>
+  <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+    <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#292924" flood-opacity=".11"/>
+  </filter>
+</defs>
+
+<rect width="430" height="220" rx="26" fill="#fafafa"/>
+<rect width="430" height="220" rx="26" fill="url(#majorGrid)" mask="url(#gridMask)"/>
+<rect x="14" y="14" width="402" height="192" rx="22" fill="#ffffff" fill-opacity=".80" stroke="#ffffff" stroke-opacity=".95" filter="url(#softShadow)"/>
+<rect x="28" y="28" width="102" height="26" rx="13" fill="#f7f7f2" stroke="#deded9"/>
+<circle cx="41" cy="41" r="4" fill="#a8614b"/>
+<text x="52" y="45" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.1" fill="#767873">03 / LOCAL AI</text>
+
+<text x="28" y="91" font-family="'Space Grotesk',Arial,sans-serif" font-size="27" font-weight="700" letter-spacing="-.6" fill="#151514">VYOM</text>
+<text x="28" y="116" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="500" fill="#343431">Local-first AI desktop intelligence layer</text>
+
+<text x="28" y="151" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#767873">Python · Flask · Ollama · SQLite</text>
+<line x1="28" y1="168" x2="294" y2="168" stroke="#deded9" />
+<text x="28" y="190" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" fill="#a8614b">Voice · automation · system monitoring</text>
+
+<g transform="translate(316 62)">
+
+<rect x="0" y="0" width="78" height="78" rx="18" fill="#f7f7f2" stroke="#deded9"/>
+<rect x="16" y="20" width="46" height="34" rx="8" fill="none" stroke="#343431" stroke-width="1.8"/>
+<path d="M25 31h22M25 39h15M25 47h25" stroke="#a8614b" stroke-width="2" stroke-linecap="round"/>
+<circle cx="57" cy="16" r="5" fill="#7f907b"/>
+
+</g>
 </svg>

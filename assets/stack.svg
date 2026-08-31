@@ -1,8 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Engineering stack">
-<rect width="900" height="180" rx="20" fill="#0b1220" stroke="#1e293b"/>
-<text x="34" y="40" font-family="ui-monospace,monospace" font-size="12" fill="#64748b">ENGINEERING STACK</text>
-<text x="34" y="76" font-family="Inter,system-ui" font-size="15" font-weight="700" fill="#38bdf8">LANGUAGES</text><text x="145" y="76" font-family="Inter,system-ui" font-size="15" fill="#e2e8f0">Python · C++ · JavaScript · SQL · HTML/CSS</text>
-<text x="34" y="111" font-family="Inter,system-ui" font-size="15" font-weight="700" fill="#a3e635">BUILD</text><text x="145" y="111" font-family="Inter,system-ui" font-size="15" fill="#e2e8f0">React · Flask · Supabase · Firebase · Git · Linux</text>
-<text x="34" y="146" font-family="Inter,system-ui" font-size="15" font-weight="700" fill="#c084fc">AI + HARDWARE</text><text x="145" y="146" font-family="Inter,system-ui" font-size="15" fill="#e2e8f0">LightGBM · TCN · OpenCV · Ollama · ESP32 · IoT sensors</text>
-<path d="M766 45h92M766 90h92M766 135h92" stroke="#334155" stroke-width="7" stroke-linecap="round"/><circle cx="798" cy="45" r="7" fill="#38bdf8"/><circle cx="836" cy="90" r="7" fill="#a3e635"/><circle cx="782" cy="135" r="7" fill="#c084fc"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="208" viewBox="0 0 900 208" role="img" aria-label="Engineering stack">
+
+<defs>
+  <pattern id="minorGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#151514" stroke-opacity=".055" stroke-width="1"/>
+  </pattern>
+  <pattern id="majorGrid" width="100" height="100" patternUnits="userSpaceOnUse">
+    <rect width="100" height="100" fill="url(#minorGrid)"/>
+    <path d="M 100 0 L 0 0 0 100" fill="none" stroke="#ffffff" stroke-opacity=".75" stroke-width="1"/>
+  </pattern>
+  <radialGradient id="gridFade" cx="50%" cy="28%" r="78%">
+    <stop offset="0%" stop-color="#fff" stop-opacity="1"/>
+    <stop offset="68%" stop-color="#fff" stop-opacity=".65"/>
+    <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+  <mask id="gridMask">
+    <rect width="100%" height="100%" fill="url(#gridFade)"/>
+  </mask>
+  <linearGradient id="accentText" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#a8614b"/>
+    <stop offset="100%" stop-color="#b28a4a"/>
+  </linearGradient>
+  <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
+    <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#292924" flood-opacity=".11"/>
+  </filter>
+</defs>
+
+<rect width="900" height="208" rx="28" fill="#fafafa"/>
+<rect width="900" height="208" rx="28" fill="url(#majorGrid)" mask="url(#gridMask)"/>
+<rect x="20" y="20" width="860" height="168" rx="24" fill="#ffffff" fill-opacity=".80" stroke="#ffffff" filter="url(#softShadow)"/>
+<text x="44" y="54" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.8" fill="#a8614b">ENGINEERING STACK</text>
+<text x="44" y="91" font-family="'Space Grotesk',Arial,sans-serif" font-size="20" font-weight="700" fill="#151514">Languages</text>
+<text x="172" y="91" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="500" fill="#343431">Python · C++ · JavaScript · SQL · HTML/CSS</text>
+<line x1="44" y1="108" x2="856" y2="108" stroke="#deded9"/>
+<text x="44" y="138" font-family="'Space Grotesk',Arial,sans-serif" font-size="20" font-weight="700" fill="#151514">Build</text>
+<text x="172" y="138" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="500" fill="#343431">React · Flask · Supabase · Firebase · Git · Linux</text>
+<line x1="44" y1="154" x2="856" y2="154" stroke="#deded9"/>
+<text x="44" y="179" font-family="'Space Grotesk',Arial,sans-serif" font-size="20" font-weight="700" fill="#151514">AI + IoT</text>
+<text x="172" y="179" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="500" fill="#343431">LightGBM · TCN · OpenCV · Ollama · ESP32 · Sensor systems</text>
 </svg>
