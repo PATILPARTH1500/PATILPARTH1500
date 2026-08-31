@@ -1,0 +1,134 @@
+{
+  "name": "Parth Patil",
+  "handle": "PATILPARTH1500",
+  "tagline": {
+    "line1": "Engineering software",
+    "line2": "with precision & scale."
+  },
+  "role": "Software Engineer · AI/ML · Full-stack · IoT",
+  "bio": "Building intelligent systems across scientific computing, automation, full-stack products and embedded engineering.",
+  "status": "AVAILABLE FOR OPPORTUNITIES",
+  "links": {
+    "portfolio": "https://parth-patil-jade.vercel.app/",
+    "github": "https://github.com/PATILPARTH1500",
+    "linkedin": "https://www.linkedin.com/in/parth-patil-b62809298/"
+  },
+  "colors": {
+    "background": "#fafafa",
+    "ink": "#151514",
+    "secondary": "#343431",
+    "muted": "#767873",
+    "clay": "#a8614b",
+    "ochre": "#b28a4a",
+    "sage": "#7f907b",
+    "olive": "#626e59",
+    "cream": "#f7f4ea",
+    "canvas": "#d9d9d4"
+  },
+  "about": {
+    "label": "01 / ENGINEERING PROFILE",
+    "heading": ["Software that connects", "models, machines & people."],
+    "body": "I build systems where software meets the real world — scientific data, intelligent automation, hardware and products designed for actual users.",
+    "capabilities": ["AI ENGINEERING", "FULL-STACK SYSTEMS", "IOT / EMBEDDED", "SCIENTIFIC COMPUTING"]
+  },
+  "work": {
+    "label": "02 / SELECTED WORK",
+    "heading": ["Systems worth", "measuring."]
+  },
+  "projects": [
+    {
+      "num": "01",
+      "title": "TEJAS",
+      "category": "SPACE AI / SCIENTIFIC ML",
+      "description": "Solar-flare nowcasting and forecasting system using Aditya-L1 SoLEXS and HEL1OS X-ray observations.",
+      "stack": ["Python", "Astropy", "TCN", "LightGBM", "Time-series ML"],
+      "metrics": [
+        { "value": "0.847", "label": "ROC-AUC" },
+        { "value": "~29 min", "label": "WARNING LEAD TIME" },
+        { "value": "97%", "label": "GOES AGREEMENT" },
+        { "value": "15,459", "label": "EVENTS PROCESSED" }
+      ],
+      "visual": "signal",
+      "repo": "https://github.com/Purvajghude/TEJAS",
+      "accent": "clay"
+    },
+    {
+      "num": "02",
+      "title": "MEDIMESH",
+      "category": "HEALTH-TECH / SIH",
+      "description": "Healthcare access platform connecting patients, doctors and hospitals with insurance and cashless-care workflows.",
+      "stack": ["React", "Vite", "Tailwind CSS", "Supabase", "PostgreSQL", "RLS"],
+      "status": "PRIVATE PRODUCT BUILD — SMART INDIA HACKATHON",
+      "visual": "network",
+      "repo": "https://github.com/MEDIMESH-INDIA",
+      "accent": "sage"
+    },
+    {
+      "num": "03",
+      "title": "VYOM",
+      "category": "LOCAL AI / AUTOMATION",
+      "description": "Privacy-focused local AI desktop assistant combining LLMs, voice, automation and system intelligence.",
+      "stack": ["Python", "Flask", "Ollama", "Faster Whisper", "SQLite", "PyAutoGUI"],
+      "capabilities": ["Local LLM", "Voice interaction", "Desktop automation", "System monitoring"],
+      "visual": "terminal",
+      "repo": "https://github.com/PATILPARTH1500/VYOM",
+      "accent": "olive"
+    },
+    {
+      "num": "04",
+      "title": "IOT GAS GUARD",
+      "category": "IOT / ENVIRONMENTAL MONITORING",
+      "description": "ESP32-based hazardous-gas monitoring platform with real-time telemetry, cloud storage and threshold alerts.",
+      "stack": ["ESP32", "MQ Sensors", "DHT", "Firebase", "Realtime Dashboard"],
+      "visual": "sensor",
+      "repo": "https://github.com/PATILPARTH1500/IOT-GAS-GUARD",
+      "accent": "ochre"
+    },
+    {
+      "num": "05",
+      "title": "HAND TRACKING SYSTEM",
+      "category": "COMPUTER VISION",
+      "description": "Realtime dual-hand computer vision system for landmark tracking, finger counting and spatial measurement.",
+      "stack": ["Python", "OpenCV", "cvzone"],
+      "visual": "hand",
+      "repo": "https://github.com/PATILPARTH1500/HAND-TRACKING-SYSTEM",
+      "accent": "clay"
+    },
+    {
+      "num": "06",
+      "title": "LOGISTICS PLATFORM",
+      "category": "WEB / PRODUCT ENGINEERING",
+      "description": "Responsive logistics experience built around service discovery, shipment workflows, quoting and tracking UX.",
+      "stack": ["HTML", "CSS", "JavaScript", "Responsive UI"],
+      "visual": "route",
+      "repo": "https://github.com/PATILPARTH1500/LOGISTICS-WEBSITE",
+      "accent": "sage"
+    }
+  ],
+  "stack": {
+    "label": "03 / TOOLKIT",
+    "heading": "Tools I build with.",
+    "groups": [
+      { "title": "LANGUAGES", "items": ["Python", "C++", "JavaScript", "SQL", "HTML / CSS"] },
+      { "title": "PRODUCT", "items": ["React", "Flask", "Supabase", "Firebase", "PostgreSQL"] },
+      { "title": "AI / DATA", "items": ["LightGBM", "TCN", "OpenCV", "Ollama", "Astropy"] },
+      { "title": "SYSTEMS", "items": ["Linux", "Git", "GitHub", "REST APIs"] },
+      { "title": "HARDWARE", "items": ["ESP32", "IoT Sensors", "Embedded Systems"] }
+    ]
+  },
+  "philosophy": {
+    "statement": ["Build it.", "Measure it.", "Make it verifiable."],
+    "principles": [
+      { "num": "01", "title": "REAL SYSTEMS", "text": "Projects should solve something measurable." },
+      { "num": "02", "title": "VERIFIABLE RESULTS", "text": "Metrics and experiments matter more than vague claims." },
+      { "num": "03", "title": "CLEAN INTERFACES", "text": "Complex engineering should still feel easy to use." }
+    ]
+  },
+  "direction": {
+    "label": "CURRENT DIRECTION",
+    "words": ["AI engineering", "Intelligent automation", "Health-tech", "IoT", "Space-tech"]
+  },
+  "footer": {
+    "closing": "Designed as an engineering interface, not a résumé template."
+  }
+}

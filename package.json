@@ -1,0 +1,13 @@
+{
+  "name": "patilparth1500-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Build script for Parth Patil's GitHub profile dashboard SVG.",
+  "type": "module",
+  "scripts": {
+    "build": "node build/build-profile.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
