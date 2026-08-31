@@ -1,31 +1,40 @@
-# 👋 Hi, I'm Parth Patil
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Parth Patil — Software Engineer, AI/ML, IoT and Full-stack builder" />
+</p>
 
-I'm a passionate self-taught developer diving deep into the world of **Web Development**, **Python**, and **AI/ML**. I love solving problems through code and building projects that make an impact.
+<p align="center">
+  <a href="https://www.linkedin.com/in/parth-patil-b62809298/">LinkedIn</a> ·
+  <a href="https://github.com/PATILPARTH1500">GitHub</a> ·
+  <a href="https://www.instagram.com/parthpatil__150/">Instagram</a>
+</p>
 
----
+## Selected work
 
-## 🚀 What I'm Doing
+| | |
+|---|---|
+| [![TEJAS](./assets/card-tejas.svg)](https://github.com/Purvajghude/TEJAS) | [![MEDIMESH](./assets/card-medimesh.svg)](https://github.com/MEDIMESH-INDIA) |
+| [![VYOM](./assets/card-vyom.svg)](https://github.com/PATILPARTH1500/VYOM) | [![IoT Gas Guard](./assets/card-gasguard.svg)](https://github.com/PATILPARTH1500/IOT-GAS-GUARD) |
+| [![Hand Tracking](./assets/card-handtracking.svg)](https://github.com/PATILPARTH1500/HAND-TRACKING-SYSTEM) | [![Logistics Website](./assets/card-logistics.svg)](https://github.com/PATILPARTH1500/LOGISTICS-WEBSITE) |
 
-- 📚 Currently learning and practicing full-stack web development  
-- 🧠 Exploring Python for automation, data handling, and machine learning  
-- 💼 Completed a 6-month internship as a **Software Engineer** at a private limited company  
+## Engineering stack
 
----
+<p align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Engineering stack: Python, C++, JavaScript, React, Flask, Supabase, Firebase, ESP32, OpenCV, LightGBM, Git and Linux" />
+</p>
 
-## 🔧 Tech Stack
+## What I build
 
-- 💻 Languages: Python, HTML, CSS, JavaScript, MySql, GitBash, GitHub, C++
-- 🌐 Web: React (learning), Node.js (exploring), Bootstrap, Flask (basics)
-- 🔍 Interests: AI, Machine Learning, Backend Logic, Clean UI
+I like projects where **software meets a real system** — scientific data, AI models, hardware, automation, or an end user who actually needs the product.
 
----
+- **AI / ML systems:** forecasting, computer vision, local LLMs, model evaluation and data pipelines.
+- **Full-stack products:** React interfaces, auth, databases, dashboards and backend logic.
+- **IoT / embedded prototypes:** ESP32 sensor systems, realtime telemetry and alerting.
+- **Engineering approach:** measurable results, reproducible demos, clean architecture and practical UX.
 
-## 📫 Connect With Me
+## Current direction
 
-- 💼 GitHub: [github.com/PATILPARTH1500](https://github.com/PATILPARTH1500)
-- 📷 Instagram: [@parthpatil__150](https://www.instagram.com/parthpatil__150/)  
-- 🧠 LinkedIn: [Parth Patil](https://www.linkedin.com/in/parth-patil-b62809298/)
+Building toward deeper work in **AI engineering, intelligent automation, health-tech, IoT and space-tech** — with an emphasis on projects that can survive scrutiny beyond the demo.
 
----
-
-> “Code is the closest thing we have to superpowers.” — Let’s decode the why, not just the how.
+<p align="center">
+  <sub>Build it. Measure it. Make the result easy to verify.</sub>
+</p>
