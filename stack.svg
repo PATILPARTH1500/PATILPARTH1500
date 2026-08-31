@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Engineering stack">
+<rect width="900" height="180" rx="20" fill="#0b1220" stroke="#1e293b"/>
+<text x="34" y="40" font-family="ui-monospace,monospace" font-size="12" fill="#64748b">ENGINEERING STACK</text>
+<text x="34" y="76" font-family="Inter,system-ui" font-size="15" font-weight="700" fill="#38bdf8">LANGUAGES</text><text x="145" y="76" font-family="Inter,system-ui" font-size="15" fill="#e2e8f0">Python · C++ · JavaScript · SQL · HTML/CSS</text>
+<text x="34" y="111" font-family="Inter,system-ui" font-size="15" font-weight="700" fill="#a3e635">BUILD</text><text x="145" y="111" font-family="Inter,system-ui" font-size="15" fill="#e2e8f0">React · Flask · Supabase · Firebase · Git · Linux</text>
+<text x="34" y="146" font-family="Inter,system-ui" font-size="15" font-weight="700" fill="#c084fc">AI + HARDWARE</text><text x="145" y="146" font-family="Inter,system-ui" font-size="15" fill="#e2e8f0">LightGBM · TCN · OpenCV · Ollama · ESP32 · IoT sensors</text>
+<path d="M766 45h92M766 90h92M766 135h92" stroke="#334155" stroke-width="7" stroke-linecap="round"/><circle cx="798" cy="45" r="7" fill="#38bdf8"/><circle cx="836" cy="90" r="7" fill="#a3e635"/><circle cx="782" cy="135" r="7" fill="#c084fc"/>
+</svg>

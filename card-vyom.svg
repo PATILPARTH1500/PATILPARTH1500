@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="190" viewBox="0 0 430 190" role="img" aria-label="VYOM AI desktop assistant">
+<rect width="430" height="190" rx="18" fill="#0b1220" stroke="#2e3d65"/>
+<rect x="20" y="18" width="103" height="25" rx="12" fill="#172554"/><text x="33" y="35" font-family="ui-monospace,monospace" font-size="11" fill="#a5b4fc">03 / LOCAL AI</text>
+<text x="20" y="76" font-family="Inter,system-ui" font-size="27" font-weight="800" fill="#f8fafc">VYOM</text>
+<text x="20" y="101" font-family="Inter,system-ui" font-size="14" fill="#94a3b8">Local-first AI desktop intelligence layer</text>
+<text x="20" y="132" font-family="ui-monospace,monospace" font-size="12" fill="#c7d2fe">Python · Flask · Ollama · Voice · SQLite</text>
+<text x="20" y="160" font-family="Inter,system-ui" font-size="14" font-weight="700" fill="#38bdf8">AI chat · automation · system monitoring</text>
+<rect x="323" y="55" width="77" height="61" rx="9" fill="none" stroke="#818cf8" stroke-width="3"/><path d="M335 78h33M335 91h46M335 104h25" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
+</svg>

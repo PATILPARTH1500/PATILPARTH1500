@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="190" viewBox="0 0 430 190" role="img" aria-label="Logistics Website">
+<rect width="430" height="190" rx="18" fill="#0b1220" stroke="#264257"/>
+<rect x="20" y="18" width="91" height="25" rx="12" fill="#082f49"/><text x="33" y="35" font-family="ui-monospace,monospace" font-size="11" fill="#7dd3fc">06 / WEB</text>
+<text x="20" y="76" font-family="Inter,system-ui" font-size="27" font-weight="800" fill="#f8fafc">Logistics Platform</text>
+<text x="20" y="101" font-family="Inter,system-ui" font-size="14" fill="#94a3b8">Responsive shipping + service experience</text>
+<text x="20" y="132" font-family="ui-monospace,monospace" font-size="12" fill="#bae6fd">HTML · CSS · JavaScript · Responsive UI</text>
+<text x="20" y="160" font-family="Inter,system-ui" font-size="14" font-weight="700" fill="#38bdf8">Tracking · quote flow · service UX</text>
+<rect x="323" y="76" width="69" height="43" rx="5" fill="none" stroke="#38bdf8" stroke-width="3"/><circle cx="338" cy="125" r="7" fill="none" stroke="#7dd3fc" stroke-width="3"/><circle cx="377" cy="125" r="7" fill="none" stroke="#7dd3fc" stroke-width="3"/>
+</svg>

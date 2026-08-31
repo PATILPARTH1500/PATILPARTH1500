@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-label="Parth Patil profile hero">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a3e635"/></linearGradient>
+</defs>
+<rect width="900" height="290" rx="24" fill="url(#bg)"/>
+<g opacity=".18" stroke="#38bdf8"><path d="M40 56H860M40 100H860M40 144H860M40 188H860M40 232H860"/><path d="M110 30V260M190 30V260M270 30V260M350 30V260M430 30V260M510 30V260M590 30V260M670 30V260M750 30V260"/></g>
+<circle cx="790" cy="82" r="58" fill="none" stroke="#38bdf8" stroke-width="2" opacity=".5"/><circle cx="790" cy="82" r="38" fill="none" stroke="#a3e635" opacity=".45"/>
+<path d="M735 202c38-42 77-42 115 0" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+<rect x="52" y="44" width="214" height="30" rx="15" fill="#0b2237" stroke="#1e3a5f"/><circle cx="72" cy="59" r="5" fill="#a3e635"/>
+<text x="86" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#bae6fd">SYSTEMS / AI / IOT</text>
+<text x="52" y="132" font-family="Inter, ui-sans-serif, system-ui" font-size="48" font-weight="800" fill="#f8fafc">PARTH PATIL</text>
+<rect x="52" y="151" width="520" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="52" y="190" font-family="Inter, ui-sans-serif, system-ui" font-size="21" font-weight="600" fill="#cbd5e1">Software Engineer · AI/ML · Full-stack · Embedded Systems</text>
+<text x="52" y="227" font-family="Inter, ui-sans-serif, system-ui" font-size="17" fill="#94a3b8">Building systems from solar-flare forecasting to local AI assistants.</text>
+<text x="52" y="255" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#64748b">github.com/PATILPARTH1500</text>
+</svg>

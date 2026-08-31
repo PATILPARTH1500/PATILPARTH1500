@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="190" viewBox="0 0 430 190" role="img" aria-label="IoT Gas Guard">
+<rect width="430" height="190" rx="18" fill="#0b1220" stroke="#3b3b1f"/>
+<rect x="20" y="18" width="90" height="25" rx="12" fill="#2b2a0c"/><text x="33" y="35" font-family="ui-monospace,monospace" font-size="11" fill="#fde68a">04 / IOT</text>
+<text x="20" y="76" font-family="Inter,system-ui" font-size="27" font-weight="800" fill="#f8fafc">IoT Gas Guard</text>
+<text x="20" y="101" font-family="Inter,system-ui" font-size="14" fill="#94a3b8">Dumping-ground hazardous gas monitoring</text>
+<text x="20" y="132" font-family="ui-monospace,monospace" font-size="12" fill="#fef3c7">ESP32 · MQ sensors · Firebase · Dashboard</text>
+<text x="20" y="160" font-family="Inter,system-ui" font-size="14" font-weight="700" fill="#facc15">Realtime telemetry + threshold alerts</text>
+<path d="M352 60c-20 25-20 44 0 57 20-13 20-32 0-57Z" fill="none" stroke="#facc15" stroke-width="3"/><circle cx="352" cy="132" r="9" fill="#facc15" opacity=".7"/>
+</svg>
